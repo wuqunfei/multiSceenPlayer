@@ -158,7 +158,7 @@ class Player(wx.Frame):
                         playIndex = 0
                         for stream in streams:
                             try:
-                                bean = {'STREAM_ADDRESS': stream['name'], 'STREAM_DATA': stream['data']}
+                                bean = {'STREAM_ADDRESS': stream['address'], 'STREAM_DATA': stream['data']}
                                 self.setPlayerRun(bean, playIndex)
                                 playIndex += 1
                             except Exception, e:
