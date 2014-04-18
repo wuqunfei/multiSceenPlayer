@@ -17,3 +17,5 @@ Stream_type is INT from 1 to 3.<br>
 
 Hope you could enjoy it. Andy questions can send me email:<br>
 wu.qunfei@gmail.com<br>
+![image](https://raw.githubusercontent.com/wuqunfei/multiSceenPlayer/master/mScreen.png)
+
